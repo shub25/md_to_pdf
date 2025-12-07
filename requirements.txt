@@ -1,7 +1,4 @@
 streamlit
 markdown2
-weasyprint
-tinycss2
-cssselect2
-html5lib
-pyphen
+xhtml2pdf
+reportlab
