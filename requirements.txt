@@ -1,0 +1,7 @@
+streamlit
+markdown2
+weasyprint
+tinycss2
+cssselect2
+html5lib
+pyphen
